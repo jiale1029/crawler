@@ -1,0 +1,8 @@
+{
+    "product_name": ".line-clamp-2",
+    "price": ".items-baseline",
+    "discount_rate": ".bg-shopee-pink",
+    "sold": ".text-shopee-black87",
+    "image_url": ".w-full img@attr:src",
+    "product_url": "a.contents@attr:href"
+}
